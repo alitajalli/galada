@@ -2,7 +2,7 @@
 layout: post
 title:  The eyes of the sea (necklace)
 date:   2018-08-23 16:03:50 +0300
-image:  the-eyes-of-the-sea-necklace.jpg
+image:  the-eyes-of-the-sea-necklace-1.jpg
 tags:   NECKLACE
 ---
 The present project is inspired by the eyes, sea waves and tiling of the dome of sheikh lotfollah mosque located in Isfahan.
