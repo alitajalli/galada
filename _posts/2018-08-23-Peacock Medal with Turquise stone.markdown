@@ -5,7 +5,7 @@ date:   2018-08-23 16:03:50 +0300
 image:  Peacock-Medal-with-Turquise-stone-medal.jpg
 tags:   MEDAL
 ---
-The present project is inspired by the Peacock and tiling of the dome of Vkil mosque located in Shiraz.
+The present project is inspired by the Peacock and tiling of the dome of Vakil mosque located in Shiraz.
 
 
 ![]({{site.baseurl}}/img/Peacock-Medal-with-Turquise-stone-cv-1.jpg)
