@@ -2,7 +2,7 @@
 layout: post
 title:  The eyes of the sea
 date:   2018-08-23 16:04:55 +0300
-image:  03.jpg
+image:  ring-the-eyes-of-the-sea.png
 tags:   RING
 ---
 The present project is inspired by the eyes, sea waves and tiling of the dome of sheikh lotfollah mosque located in Isfahan.
