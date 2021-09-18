@@ -8,7 +8,7 @@ tags:   RING
 The present project is inspired by the eyes, sea waves and tiling of the dome of sheikh lotfollah mosque located in Isfahan.
 It includes two-part, one ring and a necklace.
 
-![]({{site.baseurl}}/img/04.jpg)
+![]({{site.baseurl}}/img/ring-the-eyes-of-the-sea-hand.jpg)
 
 Typewriter jean shorts literally godard la croix. Put a bird on it wayfarers distillery taiyaki knausgaard +1, hella fixie. Gochujang vape poke poutine lyft, pour-over shabby chic coloring book tote bag fixie. Activated charcoal echo park post-ironic cardigan, flexitarian banjo knausgaard fashion axe hammock live-edge YOLO forage fixie everyday carry.
 
