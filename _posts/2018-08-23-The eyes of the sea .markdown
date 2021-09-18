@@ -6,7 +6,7 @@ image:  the-eyes-of-the-sea-necklace.jpg
 tags:   MEDAL
 ---
 The present project is inspired by the eyes, sea waves and tiling of the dome of sheikh lotfollah mosque located in Isfahan.
-It includes two-part, one ring and a necklace.
+It includes two-part, one ring and a medal.
 
 ![]({{site.baseurl}}/img/the-eyes-of-the-sea-necklace-1.jpg)
 
