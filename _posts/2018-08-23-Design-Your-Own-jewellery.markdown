@@ -2,10 +2,12 @@
 layout: post
 title:  Design Your Own jewellery
 date:   2018-08-23 16:05:55 +0300
-image:  sketch-designer-jewellery-1.jpg
+image:  sketch-designer-jewellery-0.jpg
 tags:   [DESIGN]
 ---
 Design Your Own jewellery
+
+![]({{site.baseurl}}/img/sketch-designer-jewellery-1.jpg)
 
 Perhaps you want to create something unique but don't know where to begin?
 Let us handle the design.
@@ -25,6 +27,7 @@ Unless the finishing are flawless, you've probably discovered the perfect design
 Changing the sort of stone or the precious metal used may be all that is required to suit your preferences. 
 
 ![]({{site.baseurl}}/img/sketch-designer-jewellery-4.jpg)
+
 We've done a lot of work on replicating family treasures for our customers.
 Occasionally, a second piece of jewellery is created for a different member of the family.
 You'll also have to replace any worn-out or missing beloved jewellery pieces.
