@@ -3,11 +3,11 @@ layout: post
 title:  Giordano Bruno (RING)
 date:   2021-09-20 16:02:00 +0300
 image:  Giordano-Bruno1.jpg
-tags:   [RING]
+tags:   RING
 ---
 Giordano Bruno
 ![]({{site.baseurl}}/img/bruno_giordani.jpg)
-Giordano Bruno (/dʒɔːrˈdɑːnoʊ ˈbruːnoʊ/; Italian: [dʒorˈdaːno ˈbruːno]; Latin: Iordanus Brunus Nolanus; born Filippo Bruno, January or February 1548 – 17 February 1600) was an Italian Dominican friar, philosopher, mathematician, poet, cosmological theorist, and Hermetic occultist.[3] He is known for his cosmological theories, which conceptually extended the then-novel Copernican model. He proposed that the stars were distant suns surrounded by their own planets, and he raised the possibility that these planets might foster life of their own, a cosmological position known as cosmic pluralism. He also insisted that the universe is infinite and could have no "center".
+Giordano Bruno (/dʒɔːrˈdɑːnoʊ ˈbruːnoʊ/; Italian: [dʒorˈdaːno ˈbruːno]; Latin: Iordanus Brunus Nolanus; born Filippo Bruno, January or February 1548 – 17 February 1600) was an Italian Dominican friar, philosopher, mathematician, poet, cosmological theorist, and Hermetic occultist. He is known for his cosmological theories, which conceptually extended the then-novel Copernican model. He proposed that the stars were distant suns surrounded by their own planets, and he raised the possibility that these planets might foster life of their own, a cosmological position known as cosmic pluralism. He also insisted that the universe is infinite and could have no "center".
 
 ![]({{site.baseurl}}/img/bruno-1.jpg)
 
