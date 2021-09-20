@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The eyes of the sea (ring)
+title:  The eyes of the sea (RING)
 date:   2018-08-23 16:04:55 +0300
 image:  ring-the-eyes-of-the-sea.jpg
 tags:   RING
