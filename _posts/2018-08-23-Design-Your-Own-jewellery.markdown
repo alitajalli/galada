@@ -9,8 +9,11 @@ tags:   [DESIGN]
 
 ![]({{site.baseurl}}/img/sketch-designer-jewellery-1.jpg)
 
-Perhaps you want to create something unique but don't know where to begin?
+### Perhaps you want to create something unique but don't know where to begin?
 Let us handle the design.
+
+![]({{site.baseurl}}/img/neor-logo-mp.jpg)
+
 We'll assist you in identifying the jewellery styles that appeal to you. Our designers will accompany you as you peruse our extensive jewellery selection, assisting you in identifying the design elements that appeal to you. Our designers will create an original piece of jewellery that fits your lifestyle and budget after assisting you in discovering the possibilities. 
 
 ![]({{site.baseurl}}/img/sketch-designer-jewellery-2.jpg)
@@ -39,11 +42,12 @@ A professional designer will look for the safest repair procedure while keeping 
 ![]({{site.baseurl}}/img/sketch-designer-jewellery-5.jpg)
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
-1. Chat With A Representative:
+
+## 1. Chat With A Representative:
 One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.
 
-2. Actualize Your Concept:
+## 2. Actualize Your Concept:
 Your jewelry designer will begin by establishing your needs and gathering relevant materials related to your project. From there, they will develop your idea and communicate with you using photos, computer generated renderings, and various design tools available to help you visualize your masterpiece.
 
-3. Create Your Jewelry:
+## 3. Create Your Jewelry:
 Once we have earned your complete confidence, we will customize a piece of fine jewelry to your specifications.
