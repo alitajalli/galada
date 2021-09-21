@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: NeorLakePanorama.jpg
+image: neor-about.jpg
 permalink: /about/
 ---
 ![]({{site.baseurl}}/img/neor-logo-mp.jpg)
