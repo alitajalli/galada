@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Design Your Own jewellery
+title:  Design Your Own Dream
 date:   2018-08-23 16:05:55 +0300
 image:  sketch-designer-jewellery-0.jpg
 tags:   [DESIGN]
 ---
-# Design Your Own jewellery
+# Design Your Own Dream
 
 ![]({{site.baseurl}}/img/sketch-designer-jewellery-1.jpg)
 
