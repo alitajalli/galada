@@ -18,7 +18,6 @@ The lake is situated at the lower slopes of Baghru Heights of the Talysch Mounta
 A sample of peat deposit (30 centimetres (12 in) in diameter core sample) from the bed of the lake, from its northeastern corner, was taken by coring. This was subject to studies to determine the age of the stratification and the type of biodiversity which existed when it was formed. The pollen spectra revealed a 6,500 year old sequence comprising remnants of pollen and beetle. Coprophagous and coprophilous species of pollen were identified. The studies indicated an "open steppe landscape", akin to the present day Irano-Turanian (IT) floristic region in the highlands, in respect of agro-pastoral cultural vocations and the closeness to the eastern mesic temperate Hyrcanian forest. The insect and pollen evidence conforms to the archaeological evidence in the region. Chironomid and geochemical analyses on the lake Neor highlight hydrologic variations on the lake since the Lateglacial with alternation of drier and wetter period.
 
 
-
 ## What We're Here to Do
 To make the world a more beautiful place by using our expertly crafted fine jewellery.
 Motivate happy and celebratory moments
@@ -29,8 +28,8 @@ Bring a portfolio of exquisitely designed jewellery brands to the world that ima
 Establish mutually beneficial relationships with customers and suppliers.
 Contribute to a brighter, more sustainable world.
 
-## Values We Fulfill
-Uniqueness:
+# Values We Fulfill
+## Uniqueness:
 We're always looking for new ways to do things and ways to refuse to follow the rules.
 We never perform poorly to delight our clients with our innovative ideas. 
 
@@ -47,5 +46,5 @@ Because we are perfectionists, everything we do is focused on that goal.
 We're dedicated to environmental stewardship and respectful interactions with our customers, partners, suppliers, and communities. 
 
 ![]({{site.baseurl}}/img/alitajalli.jpg)
-### Ceo and Founder - Ali Tajalli
-#### JEWELRY HAS THE POWER TO BE THE ONE LITTLE THING THAT MAKES YOU FEEL UNIQUE
+#### Ceo and Founder - Ali Tajalli
+##### JEWELRY HAS THE POWER TO BE THE ONE LITTLE THING THAT MAKES YOU FEEL UNIQUE
