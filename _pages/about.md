@@ -5,7 +5,8 @@ image: NeorLakePanorama.jpg
 permalink: /about/
 ---
 ![]({{site.baseurl}}/img/neor-logo-mp.jpg)
-Adoring your Dream, Let your Dreams speak
+
+## Adoring your Dream, Let your Dreams speak
 
 NEOR brand is derived from the name of Neor Lake.
 Neor Lake (Persian: دریاچه نِئور) is a shallow lake located in 48 km from Ardabil in Ardabil Province in the Baghru mountain range in North West Iran. This lake was formed due to two fault zones during the Eocene period.
@@ -17,30 +18,30 @@ A sample of peat deposit (30 centimetres (12 in) in diameter core sample) from t
 
 
 
-What We're Here to Do
+## What We're Here to Do
 To make the world a more beautiful place by using our expertly crafted fine jewellery.
 Motivate happy and celebratory moments
 To inspire and girls and young women
 
-The Goals We've Set
+## The Goals We've Set
 Bring a portfolio of exquisitely designed jewellery brands to the world that imagine and satisfy people's needs and desires. Brand Portfolio
 Establish mutually beneficial relationships with customers and suppliers.
 Contribute to a brighter, more sustainable world.
 
-Values We Fulfill
+## Values We Fulfill
 Uniqueness:
 We're always looking for new ways to do things and ways to refuse to follow the rules.
 We never perform poorly to delight our clients with our innovative ideas. 
 
-Our Adventure in Seeing the Future:
+## Our Adventure in Seeing the Future:
 We're open to new ideas and are always looking for ways to innovate.
 
-Integrity:
+### Integrity:
 We always act with integrity, honesty, and trust.
 
-Quality:
+### Quality:
 Because we are perfectionists, everything we do is focused on that goal.
 
-Caring:
+### Caring:
 We're dedicated to environmental stewardship and respectful interactions with our customers, partners, suppliers, and communities. 
 
