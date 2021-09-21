@@ -1,24 +1,45 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: NeorLakePanorama.jpg
 permalink: /about/
 ---
+Adoring your Dream, Let your Dreams speak
 
-We are Bugalo. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+NEOR brand is derived from the name of Neor Lake.
+Neor Lake (Persian: دریاچه نِئور) is a shallow lake located in 48 km from Ardabil in Ardabil Province in the Baghru mountain range in North West Iran. This lake was formed due to two fault zones during the Eocene period.
+The lake is situated at the lower slopes of Baghru Heights of the Talysch Mountains. Elevation of the lake is 2,500 metres (8,200 ft) above mean sea level. It is 48 kilometres (30 mi) to the south east of Ardabil on Khalkhal Road out of which 18 kilometres (11 mi) is a hill section. The lake emerged during the Eocene geologic time scale. The Neor fault and another fault on the western part of the lake, which were active from the Eocene period, have contributed to the emergence of this lake. The basin receives an annual rainfall of 400 millimetres (16 in) with cold mountainous climate.
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+![]({{site.baseurl}}/img/NeorLakePanorama.jpg)
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+A sample of peat deposit (30 centimetres (12 in) in diameter core sample) from the bed of the lake, from its northeastern corner, was taken by coring. This was subject to studies to determine the age of the stratification and the type of biodiversity which existed when it was formed. The pollen spectra revealed a 6,500 year old sequence comprising remnants of pollen and beetle. Coprophagous and coprophilous species of pollen were identified. The studies indicated an "open steppe landscape", akin to the present day Irano-Turanian (IT) floristic region in the highlands, in respect of agro-pastoral cultural vocations and the closeness to the eastern mesic temperate Hyrcanian forest. The insect and pollen evidence conforms to the archaeological evidence in the region. Chironomid and geochemical analyses on the lake Neor highlight hydrologic variations on the lake since the Lateglacial with alternation of drier and wetter period.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+What We're Here to Do
+To make the world a more beautiful place by using our expertly crafted fine jewellery.
+Motivate happy and celebratory moments
+To inspire and girls and young women
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+The Goals We've Set
+Bring a portfolio of exquisitely designed jewellery brands to the world that imagine and satisfy people's needs and desires. Brand Portfolio
+Establish mutually beneficial relationships with customers and suppliers.
+Contribute to a brighter, more sustainable world.
+
+Values We Fulfill
+Uniqueness:
+We're always looking for new ways to do things and ways to refuse to follow the rules.
+We never perform poorly to delight our clients with our innovative ideas. 
+
+Our Adventure in Seeing the Future:
+We're open to new ideas and are always looking for ways to innovate.
+
+Integrity:
+We always act with integrity, honesty, and trust.
+
+Quality:
+Because we are perfectionists, everything we do is focused on that goal.
+
+Caring:
+We're dedicated to environmental stewardship and respectful interactions with our customers, partners, suppliers, and communities. 
+
