@@ -46,5 +46,5 @@ Because we are perfectionists, everything we do is focused on that goal.
 We're dedicated to environmental stewardship and respectful interactions with our customers, partners, suppliers, and communities. 
 
 ![]({{site.baseurl}}/img/alitajalli.jpg)
-#### Ceo and Founder - Ali Tajalli
+#### Ceo and Founder - Dr. Ali Tajalli
 ##### JEWELRY HAS THE POWER TO BE THE ONE LITTLE THING THAT MAKES YOU FEEL UNIQUE
