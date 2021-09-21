@@ -28,12 +28,12 @@ Bring a portfolio of exquisitely designed jewellery brands to the world that ima
 Establish mutually beneficial relationships with customers and suppliers.
 Contribute to a brighter, more sustainable world.
 
-# Values We Fulfill
-## Uniqueness:
+## Values We Fulfill
+### Uniqueness:
 We're always looking for new ways to do things and ways to refuse to follow the rules.
 We never perform poorly to delight our clients with our innovative ideas. 
 
-## Our Adventure in Seeing the Future:
+### Our Adventure in Seeing the Future:
 We're open to new ideas and are always looking for ways to innovate.
 
 ### Integrity:
