@@ -4,6 +4,7 @@ title: About
 image: NeorLakePanorama.jpg
 permalink: /about/
 ---
+![]({{site.baseurl}}/img/neor-logo-mp.jpg)
 Adoring your Dream, Let your Dreams speak
 
 NEOR brand is derived from the name of Neor Lake.
