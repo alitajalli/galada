@@ -2,8 +2,7 @@
 # General Site Settings
 
 title: Unique Custom Fine Art Jewelry from professional Designer
-description: 
-Adorning Your Dreams /
+description: Adoring your Dream, Let your Dreams speak
 
 JEWELRY HAS THE POWER TO BE THE ONE LITTLE THING THAT MAKES YOU FEEL UNIQUE # this means to ignore newlines until "baseurl:"
 baseurl: "/galada" # the subpath of your site, e.g. /blog
