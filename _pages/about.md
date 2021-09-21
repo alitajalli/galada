@@ -7,6 +7,7 @@ permalink: /about/
 ![]({{site.baseurl}}/img/neor-logo-mp.jpg)
 
 ## Adoring your Dream, Let your Dreams speak
+### Unique Custom Fine Art Jewelry from professional Designer
 
 NEOR brand is derived from the name of Neor Lake.
 Neor Lake (Persian: دریاچه نِئور) is a shallow lake located in 48 km from Ardabil in Ardabil Province in the Baghru mountain range in North West Iran. This lake was formed due to two fault zones during the Eocene period.
@@ -45,3 +46,6 @@ Because we are perfectionists, everything we do is focused on that goal.
 ### Caring:
 We're dedicated to environmental stewardship and respectful interactions with our customers, partners, suppliers, and communities. 
 
+![]({{site.baseurl}}/img/alitajalli.jpg)
+### Ceo and Founder - Ali Tajalli
+#### JEWELRY HAS THE POWER TO BE THE ONE LITTLE THING THAT MAKES YOU FEEL UNIQUE
